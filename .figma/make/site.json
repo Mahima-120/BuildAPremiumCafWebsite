@@ -1,0 +1,10 @@
+{
+  "description": "Explore a premium café and bakery’s menu, signature drinks, fresh bakes, locations, hours, customer reviews, and loyalty signup in one inviting place.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
